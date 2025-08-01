@@ -1,0 +1,6 @@
+Ticket Queues
+As tickets come into ServiceNow, all of them will be routed to queues based on pre-defined Assignment Groups.
+In order to manage customer demand and ensure the prompt response to service impacting events, it is critical that Assignment Group queues are managed and monitored.
+
+
+

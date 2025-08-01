@@ -1,0 +1,7 @@
+ServiceNow separates tickets into types, including but not limited to:
+
+Incidents
+Catalog Tasks / Requested Items
+Change Requests / Change Tasks
+Problems / Problem Tasks
+Security Incidents

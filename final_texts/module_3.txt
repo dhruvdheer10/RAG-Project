@@ -1,0 +1,44 @@
+Tickets that incorrectly are created as one type can be converted to a another type of ticket. Incidents can be converted to Requests or Security Incidents. Requests can be converted to Incidents. 
+
+To convert an Incident to a Request
+
+1.Click the "Convert to Request" button in the form header.
+
+2. In the "Catalog Item" field, choose the appropriate Request Item from the Service Catalog to convert to. Search the list to refine the results (e.g. by name or fulfillment group, etc.)
+
+3. Click the "Convert to Request" button in the form header again. This will load the Catalog Item form. Key fields will be transferred from the Incident to the Request (contact, short description, description and any attachments)
+
+4. Complete any remaining fields in the Catalog Item form and click “Order Now” to submit the Request. The new Request will route automatically to the Fulfillment Group and the original Incident will be closed out and the State set to “Converted”. The "Converted To" field in the Incident will show the number of the Request that was created.
+
+If the Incident failed to convert to a Request properly:
+
+Open a new Request manually and copy over the details from the Incident.
+
+From ServiceNow select All.
+Select Service Desk and select Catalog.
+Search for the catalog item needed.
+Fill out the form and select Submit.
+
+Or
+
+Open a ticket to get this issue addressed.
+
+From ServiceNow select All.
+Select Service Desk and select Catalog.
+Search for the catalog item ServiceNow general inquiry.
+Under Request Details provide the Incident that failed to convert properly and state that the conversion didn’t complete and the Incident State needs to be reset to Assigned.
+Once the ServiceNow team resets the Incident State back to Assigned, you can convert the Incident into a Request.
+ 
+To convert an Incident to a Security Incident
+
+1.Click the "Create Security Incident" button in the form header.
+
+2. You will be prompted to confirm you wish to convert the ticket.
+
+3. The screen will refresh and the Incident will now be closed and in a state of Converted.  Key fields will be transferred from the Incident to the Security Incident (contact, short description, description and any attachments.) The "Converted To" field in the Incident will show the number of the Security Incident (SIR) that was created.
+
+To convert an Request to an Incident
+
+1. From within the RITM select “Convert to Incident” button. All the Request related records are set to Closed-Converted 
+
+2. An incident is created and the Request values (Requested For, Short Description, Description and any attachments) are transferred to the corresponding Incident fields. To complete the incident creation, ensure the required incident fields are completed and click Save. The "Converted To" field in the Request will show the number of the Incident that was created.
