@@ -1,0 +1,13 @@
+DELETING INCIDENT TICKETS: 
+
+I have a ticket with personal information (social security, Credit Card Number, Passwords, ETC)
+Open SNOW in a new tab in the browser and select All - Service Desk - Catalog. Search the catalog for "ServiceNow ticket deletion" and open the form.
+If a new INC is needed, click the + button next to your open Incident and select Create New Incident; otherwise, skip.
+Back on the tab with the original incident, copy the short description and paste it into the New Incident. (Redact or delete any personal identifiers that may have been included in the original Interaction (if there is one))
+Repeat the same process for the full description. (Redact or delete any personal identifiers that may have been included in the original Incident)
+In the original Incident, scroll down through records, retrieve the original Incident Draft number, and also take down the Incident number. (You will need both the original Incident number and Interaction numbers (if there is an original interaction) for the subsequent form )
+ Go back to the tab with the ServiceNow Ticket Deletion Form. Select the ticket type and add Paste all required numbers in each field. (original Incident number, new Incident number, and original Interaction number are required). Note: If you need to delete the associated INCD or other associated SNOW record, please process steps from the DELETING TICKETS FROM SPAM FOLDER OR SINGLE TICKETS section below. 
+Fill out the form (Add your name to the Requested for field) accordingly and order the request. 
+ Add any related ticket numbers in the reason for deletion box, as well as the reason for deletion. 
+Order the Request.
+Complete the new Incident ticket if one was created. 

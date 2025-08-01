@@ -1,0 +1,37 @@
+How to use the Incident cause and close codes
+
+Cause codes tells ITS what potentially caused the service interruption or performance degradation. Close codes let us know the status of the incident after it is resolved. Both codes are helpful in after-action efforts like root cause analysis. Problem Management is aimed at minimizing the recurrence of the same incident by addressing the root causes. Close and cause codes are required when resolving an incident.
+
+ 
+Step 1: Resolve the incident
+ 
+Step 2: Select the close code
+1. Solved (permanently)
+2. Solved (work around)
+3. Closed/Resolved by caller
+4. Issue Not reproducible
+5. Duplicate
+6. Ticket Transferred
+7. Customer Unresponsive
+
+Note: There is a close code for Cancelled but this code cannot be chosen manually, instead it is auto-applied if the ticket is cancelled
+
+ 
+Step 3: Select the cause code
+1. Security Related
+2. Capacity Related
+3. Caused by Change
+4. Informational
+5. System Error
+6. Non-ITS Service
+7. False Positive Monitoring Alert
+8. Data Incorrect
+9. Vendor Issue
+10. No Cause Found
+
+Note: There is a cause code for Cancelled but this code cannot be chosen manually, instead it is auto-applied if the ticket is cancelled
+
+ 
+Step 4: Fill out the rest of the required fields
+ 
+Step 5: Save

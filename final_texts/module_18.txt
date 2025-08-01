@@ -1,0 +1,102 @@
+ITS “three-knock” method
+
+The method applies three concerted attempts over three USC business days to prompt a response from a customer when working on a ticket. If a customer is unresponsive after three attempts the ITS agent working the incident should resolve / close the ticket. There are two use cases for this method:
+
+ 
+
+1. A customer opens an ticket and the ITS agent is attempting to response to the customer for the first time or information from the customer is required to continue troubleshooting the ticket.
+
+2. Verification is needed from the customer that the ticket was completed to their satisfaction before closing out the ticket.
+
+ 
+
+This method is suggested when assisting a single customer. Customer communication during major incidents is handled differently so this method does not apply.
+
+ 
+
+Adopting this method addresses three main concerns:
+
+1. A recurring concern of our customers is lack of responsiveness and tickets sitting without being addressed. Focusing on Time-to-Resolve/Fulfill and Aging metrics helps drive tickets to be resolved/completed but also ensures that ITS customers perceive us as invested in getting their issues addressed and handled in a timely manner.
+
+2. Care and attention to tickets that are “pending a user response” distracts you from working on other tickets. Closing them out lets you move on to other work.
+
+3. Giving customers every opportunity to respond by providing prompts improves the quality of the interaction and reduces the likelihood that the incident will be reopened.
+
+ 
+
+The chart below details the steps and time frame for when to initiate and follow up with a response. In this example, the technician has been assigned a ticket and needs more information from the customer or needs the customer to take action
+
+Trigger
+
+	
+
+Time frame
+
+	
+
+State
+
+	
+
+Agent Response
+
+
+
+
+ 
+
+ 
+
+1. Agent needs information from the customer
+
+	
+
+ 
+
+ 
+
+3 USC business days 
+
+	
+
+Customer is unresponsive
+
+	Wait 3 USC business days before attempting to follow up with the customer. Use the relevant state in the ticket to pause the SLA (waiting for customer, pending user response, etc.)
+
+
+2. Agent responds with a reminder
+
+	
+
+4th USC business day
+
+	
+
+The customer is still unresponsive
+
+	
+
+Send a polite follow-up reminder response
+
+
+
+
+3. Agent responds with a final reminder
+
+	
+
+5th USC business day
+
+	
+
+The customer is still unresponsive
+
+	
+
+Sends a final polite response
+
+Sets the State of the  incident to Resolved or state of request to closed
+
+(incident only: Sets the Close Code to Caller Unresponsive)
+
+ 

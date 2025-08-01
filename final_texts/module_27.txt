@@ -1,0 +1,66 @@
+Accessing Google Drive:
+Go to https://drive.google.com and log in using your Google Account (Shibboleth credentials).
+Navigate to: Shared Drive > Quality Assurance.
+Click + New > Folder, name it:
+Quality Assurance Forms - [Month] [Year] (e.g., June 2025), then click Create.
+
+
+Copy the Generic QA Form:
+Locate the Generic Quality Assurance Form.
+Right-click > Make a copy.
+Right-click the copy > Move to the new monthly folder.
+
+
+Create Student Folders:
+In the monthly folder, click + New > Folder.
+Name it after the student (e.g., John Smith), then click Create.
+Repeat for each student.
+Create “Recordings” Folder and Subfolders:
+In the monthly QA folder, click + New > Folder, name it Recordings, click Create.
+Inside Recordings, click + New > Folder, name it after the student (e.g., John Smith), click Create.
+Repeat for each student.
+
+
+Access Five9:
+Open https://www.five9.com.
+Hover over Login > select Cloud Contact Center.
+Log in using CSC credentials.
+
+ 
+
+Supervisor Application:
+On the Five9 dashboard, click the Supervisor icon.
+Wait for it to load, then click Next.
+
+
+Download Call Recordings:
+In Supervisor, go to Agent > [Agent Name] > Recordings tab.
+Pick a call, click the Download icon.
+Save and rename the file: [Agent Name] 1.0.mp3.
+
+ 
+
+Upload to Google Drive:
+Go to: Shared Drive > Quality Assurance > Quality Assurance Forms > Recordings > [Agent Name].
+Click + New > File upload > upload the recording.
+
+
+Complete QA Form:
+Open the agent’s QA form in their folder.
+Use the recording to complete the form.
+Save the form.
+Repeat with 3 more recordings (4 total per agent).
+
+
+Access After Call Report:
+In Five9, open Dashboard and Reports > Custom Reports > ITS Service Desk > Agent Aftercall.
+Set the correct time range.
+Find the agent’s entry and note after-call time.
+Return to the QA form and mark Yes/No.
+
+
+Share QA Materials with Agent:
+Right-click the agent’s folder > Share > enter CSC email > set as Viewer > Send.
+Do the same for the agent’s folder under Recordings.
+Confirm both folders are shared (shared icon visible).
+Notify the agent via Slack with folder links.

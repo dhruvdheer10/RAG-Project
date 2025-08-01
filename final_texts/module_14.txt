@@ -1,0 +1,86 @@
+Business Hours Support
+
+Log the call as an Incident. Please see KB0020675.
+
+Assignment Group: SOC
+Once you have the incident number and it has been submitted, search for it using the Search bar on the top right corner in ServiceNow.
+Once you are in the incident, on the top right corner click Create Security Incident. 
+Click OK on the prompt to continue.
+Follow steps to submit the Security Incident (SIR)
+When the State field changes to Converted, this will be confirmation that the Security Incident was successfully created.
+Under the Notes/Activity tab, identify the Security Incident - SIR number.
+Give Security a warm hand off by slacking the SIR number to security-servicedesk-chat. 
+After Hours Support
+Follow steps 1-7 from above.
+Call the ITS Operation Center (ITS OC) at 866-552-3850, option 4 and provide the SIR number.
+Inform the ITS OC agent that the SIR is a priority P1-P4. Priority Rating (P1-P4) rating will be based on the Risk Factor. Please see table below.
+
+ 
+
+ 
+
+Priority Rating 
+
+	
+
+Primary Assignments 
+
+	
+
+Selection Criteria 
+
+
+
+
+P1 (Pervasive, major security Incident)  
+
+	
+Incident Commander: CISO or delegate 
+Incident Response Lead: Director of Security Operations  
+Supported by Emergency Management 
+	
+Functional Impact: denial of critical services, significant impact of critical services  
+Observed Activity: exfiltration, Command and Control (C2), collection, lateral movement and privacy implications 
+Information Impact: destruction of critical system, critical system data breach, proprietary information loss 
+Population: University wide, third-party managing USC information 
+Not recoverable 
+
+
+
+P2 (Isolated, high-risk security incident)  
+
+	
+Incident Commander: Director of Security Operations 
+Incident Response Lead: SOC Manager  
+	
+Functional Impact: denial of non-critical services and significant impact of non-critical services  
+Observed Activity: discovery, credential access, defense evasion, privilege escalation, persistence, and execution  
+Information Impact: destruction of non-critical system 
+Population: multiple University Units  
+Recoverability: extended 
+
+
+
+P3 (Moderate-risk security threat)  
+
+	
+SOC Manager via regular SOC operations 
+	
+Functional Impact: minimal impact on critical and non-critical services 
+Observed Activity: initial access 
+Information Impact: suspected but not identified 
+Population: Single University Unit  
+Recoverability: Supplemented 
+
+
+
+P4 (Low-risk security event) 
+
+	
+SOC Manager via regular SOC operations 
+	
+Functional impact: none 
+Observed Activity: reconnaissance, none 
+Information Impact: none 
+Population: Single University Unit  
+Recoverability: regular 

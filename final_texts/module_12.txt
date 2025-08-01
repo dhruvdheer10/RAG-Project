@@ -1,0 +1,82 @@
+Putting the customer first is part of the ITS culture of Delivering Excellence at Scale and supports wider efforts to constantly improve the overall customer experience.  
+
+ 
+
+What Is Request Time-to-Fulfill?
+
+Request Time-to-Fulfill (TTF) is an industry standard metric used for understanding how long it takes an organization to fulfill requests. It measures if each request was fulfilled within a timely manner, using targets based on the request item type. This is an important metric because it shows how quickly we are managing customer requests.
+
+ 
+
+What Is Measured?
+
+Only closed requests are measured for Time To Fulfill. (Cancelled and Converted requests are not included.)
+Requests are included in the report the day or month after they are closed (for daily or monthly reports).
+Request Fulfillment is measured at the Catalog Task level of the request hierarchy.
+
+What Time is not included in the measure (When is a Ticket Paused?)
+
+Placing the request into any of the below states 'pauses' the SLA Clock and time spent in those states is not included in the final SLA Calculation:
+
+Pending User Response
+Waiting For Change
+
+Requests placed in the Pending User Response state are updated automatically back to their previous state (e.g. assigned) and un-paused when the customer who made the request adds a new comment.
+
+ 
+
+How will Request Time-to-Fulfill be Measured
+
+TTF is being measured in ServiceNow against a standard set of targets. Each Request item has a time-based target for resolution based on its workflow.
+
+A complete list of all SLAs for all Request Items is attached to this Knowledge Article 
+
+All requests are only measured during standard USC Business Hours which are  8.30am-5pm Monday-Friday (excluding official USC holidays.) Time outside of these hours is not included in the SLA Calculation
+
+All of the requests (catalog tasks) closed during a given month are compiled together and measured against an Achievement Target. The current ITS Target for Request TTF is 85% each month.
+
+ 
+
+To view the SLA that is applied to any request, browse to the "Task SLAs" related list at the bottom of the catalog item form:
+
+What data can I use to track my progress?
+
+Depending on your role, use one or more of the following dashboards to track the status of your SLAs on a daily basis:
+
+All users can use the “My Work Overview” dashboard
+Assignment Group Managers can use the "Manager Overview" dashboard
+Directors can use the "Director Dashboard" dashboard.
+
+Each dashboard will show cascading versions of the same reports, e.g. My Work Overview shows tickets assigned to you, Manager Overview shows tickets assigned to all groups you are the 'group manager' for in ServiceNow, etc.
+
+ 
+
+SLA Status tab
+
+Use this tab to identify the Requests that need immediate attention, or to plan for SLAs later in the week. Each score here represents the number of requests with SLAs in various states, e.g.
+
+SLA will breach today
+SLA will breach tomorrow
+SLAs paused
+
+ 
+
+Request SLA Achievement tab
+
+The charts on this tab show your personal performance against the targets (My Work Overview) or your assignment group(s) performance (Manager/Director dashboards)
+
+There is a chart for the month-to-date achievement and a chart for year-to-date achievement.
+
+Green shows the SLA was met (passed), red shows it was not met (failed). The percentage number next to the “true” in the legend underneath the chart shows your achievement score.
+
+ 
+
+Where can I view historical data
+
+All users can use the “ITS Metrics Program Month End Summary” dashboard
+
+ 
+
+How Can I Get More Information on Time-to-Resolve?
+
+For additional information on Time-to-Resolve or the ITS Metrics program, please contact a member of the ITSM team or ask a question in the #helpITSM slack channel

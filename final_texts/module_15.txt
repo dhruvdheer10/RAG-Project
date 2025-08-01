@@ -1,0 +1,77 @@
+This is a list of words to never use in CIRT communications. Additionally, if you hear these words in
+conversation during a Major Incident, you should immediately call the ITS Security Incident Response
+team on-call and bring them into the conference bridge. We are to notify ITS Security Incident Response
+team on-call even if the following are used on a normal incident being reported to us.
+
+1. Breach
+2. Attack
+3. Compromise
+4. Brute-force
+5. Containment
+6. Eradicate
+7. Infringement
+8. Transgression
+9. Trespass
+10. Violation
+11. Exposed
+12. Liable
+13. Vulnerability
+14. Unprotected
+15. Susceptible
+16. Defenseless
+17. Overcome
+18. Sensitive
+19. Virus
+20. Malware
+21. Infiltrated
+22. Exfiltrated
+23. Hacked
+
+24. Ransom / Ransomware
+
+Cybersecurity Incident Trigger Phrase List
+
+
+
+
+“This email / message looks fake”
+
+
+
+
+“Something is deleting / forwarding my emails”
+
+
+
+
+“There is a strange rule in my inbox”
+
+
+
+
+“My files have a strange extension / filename”
+
+
+
+
+“Someone is asking me to do something strange / wrong / uncommon”
+
+
+
+
+“I see malware / virus”
+
+
+
+
+“I see a phish”
+
+
+
+
+“I am getting hacked / attacked”
+
+
+
+
+“I lost my laptop / hard drive / flash drive / phone”

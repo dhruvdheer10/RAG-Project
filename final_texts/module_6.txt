@@ -1,0 +1,8 @@
+Queue Management
+Queue management can be done by one or more people. It can be a shared responsibility across a team, or a single person.
+Managers and directors should decide how best to ensure that their queues and tickets are managed and monitored.
+A "group manager" role is applied to each Assingment Group, notating the person accountable for the queue management for that group.
+Once tickets are assigned to an inidividual, that person is responsible for managing and monitoring their own work queue.
+
+
+

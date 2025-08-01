@@ -1,0 +1,14 @@
+Global Text Search
+
+Global text search finds records in multiple places from a single search field. Note that global search only searches against some tables and only searches on active records, hence closed tickets are not included in Global Search results.
+
+To perform a global text search:
+
+Locate the search bar in the banner at the upper right of ServiceNow.
+Enter your search term and click enter to return results.
+
+Search results are grouped into logical collections based on the table the data is stored in. Users searches lookup against only the tables for which they have access rights, based on assigned roles. Search results are divided by table the record that matches the search term is found on. The default search groups are:
+
+Tasks: e.g., Incidents, Changes, etc
+People: e.g., Users, Groups
+Knowledge & Catalog: Knowledge Base and Service Catalog

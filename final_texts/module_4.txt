@@ -1,0 +1,33 @@
+Searching Lists
+
+By default, a list view includes a Go to search option that includes a choice list and a search field. The choice list contains a general text search option in addition to an option for each column name in the list. The column names are actually the field names on the record form. Use the choice list in conjunction with the search field to search the list of records by the desired field.
+
+To use the Go to search: 
+
+Navigate to a list of records.
+From the Go to choice list, select either ‘for text’ for a free text search or select the desired field on which to search. 
+In the search box, enter the text to search for.
+Hit enter to search.
+
+
+In addition to searching by field or for text, you can also search individual columns in a list.
+
+Click the search icon beside the column names to expand the column headers and add a search field underneath each column name.
+To search a single column, enter the search text in the desired column search field and press Enter.
+To search multiple columns, do one of the following:
+
+Enter the search text in each of the desired column search fields and press Enter.
+Search an individual column and then search additional columns based on the results of the first search. Each time you enter search criteria in a column search field and press Enter, the results will narrow.
+
+ 
+
+Using Wildcards
+
+ You can use wildcards to refine your list searches. The following wildcards are available:
+
+*searchterm: or %searchterm%: search for values that contain searchterm
+%searchterm: search for values that end with searchterm
+searchterm%: search for values that start with searchterm
+=searchterm: search for values that equal searchterm
+!*searchterm: search for values that do not contain searchterm
+!=searchterm: search for values that do not equal searchterm

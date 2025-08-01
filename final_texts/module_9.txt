@@ -1,0 +1,4 @@
+Using Global Dashboards for Queue Management
+The My Work Overview dashboard is available to everyone to assist with management of tickets assigned to them.
+The Manager Overview dashboard is available to group managers to assist with queue management.
+Users can also create and customize their own dashboard(s) to make queue management easier. For more information on customizing your dashboard, see KB0013738.

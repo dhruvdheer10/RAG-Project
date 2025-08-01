@@ -1,0 +1,11 @@
+Issue/Question
+
+There is another ticket about the same issue/question already opened.
+It appears customer submitted multiple tickets about the same question or issue.  
+Please close duplicate ticket. 
+
+Resolution/Answer
+
+Inform customer that an existing ticket already exists. 
+Update existing ticket with notes (If applicable).
+Close ticket. 

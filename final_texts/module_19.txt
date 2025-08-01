@@ -1,0 +1,37 @@
+Frequently asked questions:
+
+Q: What is the “Three Knock method” for ticket handling?
+
+A. The three-knock method is a way to prompt a response from an unresponsive customer when working on a ticket by making three deliberate attempts to contact the customer.
+
+Q. When do I use the “Three knock method”?
+
+A. The three-knock method should be used when attempting to prompt a response from an unresponsive customer.
+
+Q. Are there exceptions or situations when I should not use the “3 knock method”?
+
+A. There are some situations where this method is not appropriate. In these instances, add a polite note and Resolve / Close the ticket. 
+
+First, when a ticket is open for over three months with ITS as the last responder (e.g. asking for some information or action such as “can you try rebooting your device)
+Second, if we proposed a solution and we have been waiting for longer than a couple of weeks for a customer to respond to a request to verify is the solution we proposed fixed their issue, and
+Finally, if it is a system that generated the ticket (e.g. Datadog).
+
+Q. If I don’t feel comfortable writing these reminders are there scripts or messages I can use?
+
+A. We get that prompting people to respond may be uncomfortable and it may be difficult to write a message that does not sound off-putting. We have templates you can use to write these messages. See KB0011895 for example text.
+
+Q. Is it true that the three-knock method only applies when I make a comment in the Additional Comments field?
+
+A. Correct. The “Work notes” are just for communicating with colleagues. The Additional Comments field is where all customer-facing communications go.
+
+Q. What if after I resolve this incident after three knocks and the customer complains that they didn’t have a chance to respond and their issue is not fixed?
+
+A. Ensure that proper communication was put in the ticket with an offer that they can reopen the incident within 7 days. Let the customer know they can reopen the ticket simply by clicking on the link.
+
+Q. An irate customer contacted me after the 7 days complaining that their issue was never resolved. What should I do?
+
+A. Politely remind them that several attempts were made to contact them. Apologize for any inconvenience and since closed incidents are not reopened, ask them to open a new incident (or open one on their behalf)
+
+Q. Where can I go for more information?
+
+A. For more information, please ask in our #help-ITSM Slack Channel 

@@ -1,0 +1,16 @@
+Queue Manager Responsibilities
+
+The Queue Manager takes a holistic view of their group’s queues and may conduct some or all of these actions:
+
+Monitors queues regularly, scaling with demand
+Reviews queues and assign to appropriate staff
+Ensures that every ticket has a resource in the Assigned To field
+May re-prioritizes tickets
+May acknowledge customer with an initial comment
+May use the work notes to provide a warm hand-off to the assigned to user
+Reviews the team’s queue at least daily and provide status updates as needed
+Reviews aging ticket backlog on a routine basis
+Ensures that tickets are processed in a timely manner
+Identifies bottlenecks
+Analyzes each queue and looks for opportunities to improve turnaround time
+Identifies problems that need addressing (routing, aging tickets, lack of work around, etc) and report to ITSM team if needed

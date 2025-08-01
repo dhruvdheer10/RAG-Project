@@ -1,0 +1,271 @@
+Thumbnails
+Document Outline
+Layers
+Current Outline Item
+Slide 1
+Slide 2
+Slide 3
+Slide 4
+Slide 5
+Slide 6
+Slide 7
+Toggle Sidebar
+Find
+Previous
+Next
+of 7
+Presentation Mode
+Tools
+Zoom Out
+Zoom In
+Automatic Zoom
+Actual Size
+Page Fit
+Page Width
+50%
+75%
+100%
+125%
+150%
+200%
+300%
+400%
+CUSTOMER
+
+
+SATISFACTION
+
+
+SURVEY OVERVIEW
+2
+
+
+KEY POINTS ABOUT
+ 
+CUSTOMER SATISFACTION SURVEYS
+
+
+•
+ 
+Customers are surveyed on their
+
+
+experience with Incidents and
+
+
+Requests
+
+
+•
+ 
+3 questions are shared across both
+
+
+surveys with an additional question
+
+
+used only for Incident surveys
+
+
+•
+ 
+Customers will not receive an invite to
+
+
+take the same type of survey more
+
+
+often than once every 7 (once a week)
+
+
+•
+ 
+Surveys are triggered based on the
+
+
+completion of a ticket and the survey
+
+
+response and triggering ticket are
+
+
+linked together in ServiceNow.
+
+
+•
+ 
+Current survey data dates back to
+
+
+June 1
+st
+ 
+2023. Data can be found on
+
+
+the
+ 
+Survey Overview Dashboard
+
+
+within ServiceNow
+
+
+QUESTIONS
+ 
+ANSWERS
+ 
+NOTES
+
+
+“
+Did we meet your
+
+
+needs?”
+
+
+•
+ 
+Yes
+
+
+•
+ 
+No
+
+
+“
+Please rate your service
+
+
+experience”
+
+
+•
+ 
+Excellent
+
+
+•
+ 
+Good
+
+
+•
+ 
+Mediocre
+
+
+•
+ 
+Poor
+
+
+How Impactful was this
+
+
+issue to your
+
+
+productivity?
+
+
+•
+ 
+None
+
+
+•
+ 
+Multiple Hours
+
+
+•
+ 
+Full Working Day
+
+
+•
+ 
+Multiple Days
+
+
+Question applies only to
+
+
+Incident Management
+
+
+surveys.
+
+
+If we did not meet you
+
+
+needs, why not?
+ 
+Free text
+
+
+This question is only asked if
+
+
+“No” is selected in
+
+
+question1.
+3
+
+
+CUSTOMER SATISFACTION:
+ 
+SCORE DRILLDOWN
+
+
+1.
+ 
+Navigate to the “Detailed Scores” tab of the
+
+
+Survey Overview dashboard.
+
+
+2.
+ 
+Apply a breakdown to the dashboard for
+
+
+your group(s) – e.g. the department or
+
+
+assignment group manager – by checking
+
+
+the relevant options from the dropdown lists
+
+
+at the top left.
+
+
+3.
+ 
+Click on a bar within a chart to open the
+
+
+“Analytics Hub” view for that metric, which
+
+
+will allow you to view the underlying scores.
+
+
+How to access and review survey scores
+
+
+1
+
+
+2
+
+
+3

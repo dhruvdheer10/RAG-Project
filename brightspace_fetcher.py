@@ -4,7 +4,33 @@ import os
 urls = [
     "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9011496/View",
     "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9011497/View",
-    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9011549/View"
+    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9011549/View",
+    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9011508/View",
+    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9011507/View",
+    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9011498/View",
+    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9011499/View",
+    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9011500/View",
+    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9011501/View",
+    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9012695/View",
+    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9012695/View",
+    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9012698/View",
+    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9012701/View",
+    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9011527/View",
+    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9011530/View",
+    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9011537/View",
+    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9046383/View",
+    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9011539/View",
+    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9011540/View",
+    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9011546/View",
+    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9011553/View",
+    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9011558/View",
+    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9011561/View",
+    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9011564/View",
+    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9012704/View",
+    "https://brightspace.usc.edu/d2l/le/content/11082/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-9012715",
+    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9014407/View",
+    "https://brightspace.usc.edu/d2l/le/content/11082/viewContent/9012734/View",
+    # "https://itsusc.service-now.com/now/nav/ui/classic/params/target/incident.do%3Fsys_id%3Da117b96a479fca54cbb0775f746d4337%26sysparm_referring_url%3Dkb_view.do"
 ]
 
 output_dir = "/Users/nadkar/Documents/CSC_ticketing/final_texts"

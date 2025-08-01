@@ -1,0 +1,15 @@
+Procedure
+
+Whether you have received confirmation from the customer that the issue or request is resolved. Or have not received a response from the customer after reaching out via three knock method. All tickets must be closed with an informative closing comment. In addition to closing out your Incident or Request, click to add comment to the Additional comments (customer visible) field.
+
+For tickets where the Customer is Unresponsive after applying the three knock method :
+
+Incident Closing Response: Hello [Customer Name] Our records indicate that there has not been any recent activity on this incident. This ticket will now be set as resolved and will permanently close in seven days. If you feel that your issue has not been resolved, please reply to this message within seven days. After seven days you can submit a new ticket through the ITS Service Portal. Any additional questions please call the ITS Customer Support Center at 213-740-5555.
+Request Closing Response: Hello [Customer Name] Our records indicate that there has not been any recent activity on this ticket, so it will now be marked as resolved and be permanently closed. If you feel that your issue has not been resolved, please submit a new ticket through the ITS Service Portal. Any additional questions please call the ITS Customer Support Center at 213-740-5555.
+
+ 
+
+For tickets where the Customer is Responsive:
+
+Incident Closing Response: Hello [Customer Name] thank you for confirming your issue has been resolved. This ticket will now be set as resolved and will permanently close in seven days. Please note, for any future requests, a ticket can be submitted through the ITS Service Portal. Any additional questions please call the ITS Customer Support Center at 213.740.5555.
+Request Closing Response: Hello [Customer Name] Thank you for confirming your issue has been resolved. This ticket will now be set as resolved and will be permanently close. Please note, for any future requests, a ticket can be submitted through the ITS Service Portal. Any additional questions please call the ITS Customer Support Center at 213.740.5555.

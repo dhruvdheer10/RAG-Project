@@ -1,0 +1,80 @@
+Putting the customer first is part of the ITS priority of Delivering Excellence at Scale and supports the wider effort to constantly improve the overall customer experience.  
+
+ 
+
+What Is Incident Time-to-Resolve?
+
+Incident Time-to-Resolve (TTR) is an industry standard metric used for understanding how long it takes an organization to resolve Incidents. It measures if each incident was resolved within a timely manner, using targets based on the priority of the incident. This is an important metric because it shows how quickly we are addressing customer issues.
+
+ 
+
+What Is Measured?
+
+Only closed Incidents are measured for Time To Resolve. (Cancelled and Converted incidents are not included.) Incidents are included in the report the day or month after they are closed (for daily or monthly reports).
+
+Placing the incident into any of the below states 'pauses' the SLA Clock and time spent in those states is not included in the SLA Calculation:
+
+Waiting For Customer
+Waiting For Change
+Waiting For Vendor
+Resolved
+
+Incidents placed in the Waiting For Customer state are updated automatically back to their previous state (e.g. assigned) and unpaused when the customer who opened the ticket replies with a new comment.
+
+ 
+
+How will Incident Time-to-Resolve be Measured
+
+TTR is being measured in ServiceNow against a standard set of targets. Each Incident priority has a time-based target for resolution (See figure below).  
+
+For example:
+
+a Priority 1 Incident has a 4 hours target, measured 24x7x365
+a Priority 4 Incident has a 4 business day target, measured 8.30am-5pm Monday-Friday (excluding holidays)
+
+All of the incidents closed during a given month are compiled together and measured against an Achievement Target.  In the example below, the Achievement Target is 85%.
+
+ 
+
+Which data can I use to track my progress?
+
+Depending on your role, use one or more of the following dashboards to track the status of your SLAs on a daily basis:
+
+All users can use the “My Work Overview” dashboard
+Assignment Group Managers can use the "Manager Overview" dashboard
+Directors can use the "Director Dashboard" dashboard.
+
+Each dashboard will show cascading versions of the same reports, e.g. My Work Overview shows tickets assigned to you, Manager Overview shows tickets assigned to all groups you are the 'group manager' for in ServiceNow, etc.
+
+SLA Status tab
+
+Use this tab to identify the Incidents that need immediate attention, or to plan for SLAs later in the week. Each score here represents the number of incidents with SLAs in various states, e.g.
+
+SLA will breach today
+SLA will breach tomorrow
+SLAs paused
+etc
+
+ 
+
+Incident SLA Achievement tab
+
+The charts on this tab show your personal performance against the targets (My Work Overview) or your assignment groups performance (Manager/Director dashboards)
+
+There is a chart for the month-to-date achievement and a chart for year-to-date achievement.
+
+Green shows the SLA was met (passed), red shows it was not met (failed). The percentage number next to the “true” in the legend underneath the chart shows your achievement score.
+
+ 
+
+ 
+
+Where can I view historical data
+
+All users can use the “ITS Metrics Program Month End Summary” dashboard
+
+ 
+
+How Can I Get More Information on Time-to-Resolve?
+
+For additional information on Time-to-Resolve or the ITS Metrics program, please contact a member of the ITSM team or ask a question in the #helpITSM slack channel

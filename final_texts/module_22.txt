@@ -1,0 +1,14 @@
+DELETING INBOUND EMAIL INTERACTION TICKETS: 
+
+ Open Interaction for deletion.
+Open SNOW in a new tab in the browser and select All - Service Desk - Catalog. Search the catalog for "ServiceNow ticket deletion" and open the form.
+If no new ticket is needed, skip to step 6. In SNOW, click the plus button next to your open interaction for deletion and select "New Incident." Include a request not to provide PII or information that is the reason for deletion if necessary in customer notes. 
+Back on the tab with the interaction, copy the short description and paste it into the New Incident. (Redact or delete any personal identifiers that may have been included in the original draft)
+Repeat the same process for the full description. (Redact or delete any personal identifiers that may have been included in the original draft)
+Back in the Interaction for deletion tab, copy the Interaction ticket number (Will not be able to proceed without IMS number) and return to the ServiceNow Ticket Deletion" tab. 
+The form will appear as it does here: ServiceNow Ticket Deletion Form. Select the ticket type.
+Paste the Interaction Ticket Number in the "Ticket to be deleted" field.
+(Optional: Return to the New Incident Tab and copy the new Incident ticket number and paste in the Replacement ticket number field. Note: If a new ticket was not created due to an existing ticket, then skip). 
+ Add any related ticket numbers in the reason for deletion box, as well as the reason for deletion. 
+Order the request
+Complete the new Incident ticket if one was created. 

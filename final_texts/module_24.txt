@@ -1,0 +1,13 @@
+DELETING REQUEST TICKETS:
+
+As Request tickets can not be further converted, open a new tab and go directly to ServiceNow Ticket Deletion Request form at ServiceNow Ticket Deletion Form
+Note: Add your name to the Requested for field on the ServiceNow Ticket Deletion form. 
+Open SNOW in a new tab in the browser and select All - Service Desk - Catalog. Search the corresponding catalog form to create a new REQ ticket (If a new REQ ticket needs to be created).
+Fill out the form by replicating the details entered in the original request. (Redact or delete any personal identifiers that may have been included in the original request).
+RITM or TASK type tickets are children of a REQ and cannot be directly deleted.
+Fill out the rest of the ServiceNow Ticket Deletion form (Add your name to the Requested for field).
+Select the ticket type and add the ticket number to be deleted.
+Enter a Replacement ticket number (if exists).
+Add any related ticket numbers (INCD, IMS, RITM and TASK) in the reason for deletion box as well as reason for deletion. 
+Order the Request
+Complete the new Request ticket if one was created.

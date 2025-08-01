@@ -1,0 +1,20 @@
+Queue Management Tips
+Queue Roles and Monitoring
+Assign an individual on your team to be responsible for managing the queue. This can be a permanently assigned role or one that rotates between each team member in a given week.
+Have this person review the groups queue(s) at least twice per day. 
+Receiving a Ticket
+On receipt of a ticket, when assigning to an individual, also ensure the ticket details are accurate, e.g. for an incident check the following for accuracy:
+
+Update the Short Description to be as meaningful as possible. Consider using the Kepner-Tregoe "Object + Deviation" approach
+Priority (Impact + Urgency)
+Configuration Item
+Description 
+If the ticket is not accurately assigned, re-assign it to the correct group, or if unsure, re-assign to the Service Desk group (Customer Support Center) and ask them via the Work Notes to help assign it correctly.
+Working on a Ticket
+When you are ready to work on a ticket, assign the ticket to the relevant person in the Assignment Group (this can include yourself.)
+Add a note to the customer, using the Additional Comments field, to acknowledge the customer and receipt of the ticket. This is the acceptance step and it lets your peers and customer(s) know someone is actively working on and assigned to the incident or service request.
+Templates are available that provide pre-written content for messages to customers, see: KB0011895: ServiceNow - Customer Communication Templates
+Re-assigning a Ticket
+When assigning a ticket to another team’s queue, be sure to enter details in the work notes indicating why you are forwarding the case and what investigations and troubleshooting steps have already been completed.
+Be sure to assign to the group queue and not a specific individual in the group.
+If unsure of the correct group to assign the ticket to, re-assign to the Service Desk group (Customer Support Center) and ask them via the Work Notes to help assign correctly.

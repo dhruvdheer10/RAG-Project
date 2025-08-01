@@ -1,0 +1,37 @@
+What is Ticket Aging?
+
+Ticket Aging are metrics used for understanding how long open tickets have been open for. These metrics provides insight into how long our customers wait for us to resolve an incident or fulfill a request. 
+
+ 
+
+What is Measured?
+
+Any open ticket is measured.
+
+ 
+
+How will the Ticket Aging be Measured?
+
+For Incidents, an "aged" ticket is considered to be any incident that has been open for more than 14 days (2 weeks)
+
+For Requests, an "aged" tickets is considered to be any request that has been open for more than 28 days (1 month)
+
+ 
+
+Which data can I use to track my progress?
+
+All users can use the scores and charts displayed within the "Open Tickets" tab of the “My Work Overview” dashboard
+Assignment Group Managers can use the scores and charts on the "Ticket Aging" tab of the "Manager Overview" dashboard
+Directors can use the charts on the "Ticket Aging" tab of the "Director Dashboard" dashboard
+
+ 
+
+My Work Overview example
+
+Manager Overview example:
+
+Director Overview Example:
+
+How Can I Get More Information on the ITS Metrics Program?
+
+For additional information, please contact the ITSM team. 
